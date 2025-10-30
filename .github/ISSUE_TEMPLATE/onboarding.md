@@ -21,6 +21,8 @@ assignees: ''
 
 - [ ] Invite to subscribe to lab calendar
 
+- [ ] Add birthday to lab calendar
+
 - [ ] Initial meeting to discuss the project details
     - [ ] Introduce to the group's structure
     - [ ] Intro to Github use
