@@ -28,6 +28,8 @@ assignees: ''
     - [ ] Intro to Github use
     - [ ] Share software requirements
 
+- [ ] PI contacts BTI admin to get financial code (if needed)
+
 - [ ] Add to Achromobacter Teams (if needed) 
 
 - [ ] Add to GEM-SEE-Achro Github (if needed)
