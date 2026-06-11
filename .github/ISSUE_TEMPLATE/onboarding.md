@@ -37,3 +37,5 @@ assignees: ''
 - [ ] Create SSH keys, add to VU HPC (if needed)
 
 - [ ] Fill in the request for VU HPC access (if needed)
+
+- [ ] [Set up mobile network notifications in English](https://lt72.lt/telefono-nustatymai-aktyvinti-perspejimo-funkcija-telefonuose-kad-gautumete-perspejimo-pranesimus/?lang=en) (if needed)
